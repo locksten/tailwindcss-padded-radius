@@ -1,0 +1,25 @@
+{
+  "name": "tailwindcss-padded-radius",
+  "version": "1.0.0",
+  "description": "A Tailwind CSS plugin for creating matching border radii",
+  "author": "locksten <email@locksten.com>",
+  "homepage": "https://github.com/locksten/tailwindcss-padded-radius",
+  "bugs": "https://github.com/locksten/tailwindcss-padded-radius/issues",
+  "repository": "github:locksten/tailwindcss-padded-radius",
+  "license": "MIT",
+  "keywords": [
+    "border-radius",
+    "tailwind",
+    "tailwindcss-plugin"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.2.2",
+    "jest-matcher-css": "^1.1.0",
+    "postcss": "^7.0.32",
+    "tailwindcss": "^1.6.1"
+  }
+}
