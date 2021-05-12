@@ -20,7 +20,7 @@
   "devDependencies": {
     "jest": "^26.2.2",
     "jest-matcher-css": "^1.1.0",
-    "postcss": "^7.0.32",
+    "postcss": "^8.2.10",
     "tailwindcss": "^1.6.1"
   }
 }
